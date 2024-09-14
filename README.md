@@ -3,7 +3,7 @@
 Sono uno sviluppatore software appassionato di Java, Spring Boot, microservizi. Attualmente sto lavorando su progetti personali e sono sempre pronto a collaborare su nuove idee.
 
 ## 🌟 Progetti in evidenza
-- **[Microservice-App](https://github.com/V-Merola/microservice-app)**: Applicazione completa basata su architettura a microservizi in Spring.
+- **[Microservice-App](https://github.com/V-Merola/microservice-app)**: Applicazione base basata su architettura a microservizi in Spring.
 - **[PIZZERIA](https://github.com/V-Merola/PIZZERIA-Backend-)**: Progetto didattico utilizzando tecnologie Java Enterprise Edition: (SERVLET-JSP-JDBC-HIBERNATE-JPA-EJB-WEBSERVICE REST & SOAP)
 - **[Simulatore Colloqui](https://github.com/TripodiRocco/simulaColloquiGruppo1Java13)**: Simulatore di colloqui chatGPT utilizzando API OpenAi
 
