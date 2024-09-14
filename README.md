@@ -24,3 +24,5 @@ Sono uno sviluppatore software appassionato di Java, Spring Boot, microservizi. 
 
 ![Trofei GitHub](https://github-profile-trophy.vercel.app/?username=V-Merola&theme=onedark&no-frame=true&no-bg=true&row=1&column=3)
 
+![Profilo Visualizzato](https://komarev.com/ghpvc/?username=V-Merola&color=blue)
+
