@@ -18,11 +18,9 @@ Sono uno sviluppatore software appassionato di Java, Spring Boot, microservizi. 
 ![Java EE](https://img.shields.io/badge/Java%20EE-007396?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-![Linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=V-Merola&layout=compact&theme=radical)
-
-![Trofei GitHub](https://github-profile-trophy.vercel.app/?username=V-Merola&theme=darkhub)
-
 ## 📫 Contattami
 - **Email**: [Gmail](mailto:v.merola18@gmail.com)
 - **LinkedIn**: [Vincenzo Merola](https://linkedin.com/in/tuo-username)
+
+![Trofei GitHub](https://github-profile-trophy.vercel.app/?username=V-Merola&theme=darkhub)
+
