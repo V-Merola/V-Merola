@@ -20,7 +20,7 @@ Sono uno sviluppatore software appassionato di Java, Spring Boot, microservizi. 
 
 ## 📫 Contattami
 - **Email**: [Gmail](mailto:v.merola18@gmail.com)
-- **LinkedIn**: [Vincenzo Merola](https://linkedin.com/in/tuo-username)
+- **LinkedIn**: [Vincenzo Merola]( https://www.linkedin.com/in/vincenzo-merola-vm18)
 
 ![Trofei GitHub](https://github-profile-trophy.vercel.app/?username=V-Merola&theme=onedark&no-frame=true&no-bg=true&row=1&column=3)
 
