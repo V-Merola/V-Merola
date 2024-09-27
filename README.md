@@ -1,6 +1,6 @@
 # 👋 Ciao, sono Vincenzo!
 
-Sono uno sviluppatore software appassionato di Java, Spring Boot, microservizi. Attualmente sto lavorando su progetti personali e sono sempre pronto a collaborare su nuove idee.
+Sono uno sviluppatore software backend appassionato di Java, Spring Boot, microservizi. Attualmente sto lavorando su progetti personali e sono sempre pronto a collaborare su nuove idee.
 
 ## 🌟 Progetti in evidenza
 - **[Microservice-App](https://github.com/V-Merola/microservice-app)**: Applicazione base basata su architettura a microservizi in Spring.
