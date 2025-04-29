@@ -3,7 +3,7 @@
 Sono uno sviluppatore software backend appassionato di Java, Spring Boot, microservizi. Attualmente sto lavorando su progetti personali e sono sempre pronto a collaborare su nuove idee.
 
 ## 🌟 Progetti in evidenza
-- **[Cloud-Native Spring](https://github.com/V-Merola/Cloud-Native-with-Spring)**: Applicazione per la gestione un negozio online in un contesto cloud-native, seguendo i principi e le tecnologie più moderne.
+- **[Cloud-Native Spring](https://github.com/V-Merola/Cloud-Native-with-Spring)**: Applicazione completa per la gestione un negozio online in un contesto cloud-native, seguendo i principi e le tecnologie più moderne.
 - **[Microservice-App](https://github.com/V-Merola/microservice-app)**: Applicazione base basata su architettura a microservizi in Spring.
 - **[PIZZERIA](https://github.com/V-Merola/PIZZERIA-Backend-)**: Progetto didattico utilizzando tecnologie Java Enterprise Edition: (SERVLET-JSP-JDBC-HIBERNATE-JPA-EJB-WEBSERVICE REST & SOAP)
 - **[Simulatore Colloqui](https://github.com/TripodiRocco/simulaColloquiGruppo1Java13)**: Progetto collaborativo di un Simulatore di colloqui chatGPT utilizzando API OpenAi
