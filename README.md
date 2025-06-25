@@ -11,7 +11,6 @@ Sono uno sviluppatore software backend appassionato di Java, Spring Boot, micros
 ## 🛠️ Competenze
 - **Linguaggi**: Java
 - **Framework e Piattaforme**: Spring Boot, Spring, **Java EE**
-- **Database**: MySQL
   
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
